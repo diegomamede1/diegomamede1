@@ -1,7 +1,7 @@
 ## Olá, meu nome é Diego Mamede! 😃
 <div align="center">
   <a href="https://github.com/diegomamede1">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomamede1&show_icons=true&theme=radical)
+  ![diegomamede1 GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomamede1&show_icons=true&theme=radical)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
