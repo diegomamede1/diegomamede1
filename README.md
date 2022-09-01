@@ -1,4 +1,7 @@
 ## Olá, meu nome é Diego Mamede! 😃
+<p>
+<li>💻 Estudante de Análise e Desenvolvimento de Sistemas 2/4 </li>
+</p>
 <div align="center">
   <a href="https://github.com/diegomamede1"> 
   
