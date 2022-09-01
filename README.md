@@ -1,4 +1,3 @@
-<div style="background-color: red>
 ## Olá, meu nome é Diego Mamede! 😃
 <div align="center">
   <a href="https://github.com/diegomamede1"> 
@@ -25,4 +24,4 @@
  
  
 </div>
-</div>
+
