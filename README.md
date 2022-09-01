@@ -2,7 +2,7 @@
 
   <a href="https://github.com/diegomamede1"> 
   
-  ![diegomamede1 GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomamede1&show_icons=true&theme=Gradient)
+  ![diegomamede1 GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomamede1&show_icons=true&theme=dark)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomamede1&layout=compact)](https://github.com/diegomamede1/github-readme-stats)
  
 
