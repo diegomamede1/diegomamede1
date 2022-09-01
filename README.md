@@ -1,9 +1,10 @@
 ## Olá, meu nome é Diego Mamede! 😃
-<div align="center">
-  <a href="https://github.com/diegomamede1">
+
+  <a href="https://github.com/diegomamede1"> 
+  </a>
   ![diegomamede1 GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomamede1&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomamede1&layout=compact)](https://github.com/diegomamede1/github-readme-stats)
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
