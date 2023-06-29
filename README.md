@@ -13,10 +13,6 @@
   
   <img align="center" alt="Php" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
-  <img align="center" alt="Laravel" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  
-  <img align="center" alt="Blade" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blade/blade-original.svg">
-  
   <img align="center" alt="Js" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <img align="center" alt="Java" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
