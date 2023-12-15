@@ -1,6 +1,7 @@
 ## Olá, meu nome é Diego Mamede! 😃
 <p>
 <li>💻 Estudante Análise e Desenvolvimento de Sistemas 4/4 </li>
+<li>💻 Desenvolvedor de sistemas na MedMais Consulta </li>
 </p>
 <div>
   <a href="https://github.com/diegomamede1"> 
