@@ -1,13 +1,13 @@
 ## 👋 Olá, eu sou o Diego Mamede!
 
-💻 Formado em Análise e Desenvolvimento de Sistemas  
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
 📚 Sempre em busca de aprender novas ferramentas e evoluir.  
 
 ---
 
 ### 🛠️ Tecnologias e Linguagens
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   
   <img align="center" alt="Php" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Js" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
